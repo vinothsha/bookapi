@@ -1,4 +1,4 @@
-module book
+module github.com/vinothsha/bookapi
 
 go 1.17
 
